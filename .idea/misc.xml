@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/flexgateway-velocity/pom.xml" />
         <option value="$PROJECT_DIR$/flexgateway-bukkit/pom.xml" />
+        <option value="$PROJECT_DIR$/flexgateway-api/pom.xml" />
       </list>
     </option>
   </component>

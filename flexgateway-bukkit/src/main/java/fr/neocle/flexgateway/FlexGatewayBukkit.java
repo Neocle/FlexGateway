@@ -1,11 +1,11 @@
 package fr.neocle.flexgateway;
 
-import fr.neocle.flexgateway.communication.TcpCommunicationServer;
-import fr.neocle.flexgateway.server.RestApiServer;
+import fr.neocle.flexgateway.bukkit.communication.TcpCommunicationServer;
+import fr.neocle.flexgateway.bukkit.server.RestApiServer;
 import fr.neocle.flexgateway.api.loader.ExtensionLoader;
-import fr.neocle.flexgateway.data.DataManager;
-import fr.neocle.flexgateway.database.DatabaseManager;
-import fr.neocle.flexgateway.listeners.ChatListener;
+import fr.neocle.flexgateway.bukkit.data.DataManager;
+import fr.neocle.flexgateway.bukkit.database.DatabaseManager;
+import fr.neocle.flexgateway.bukkit.listeners.ChatListener;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
