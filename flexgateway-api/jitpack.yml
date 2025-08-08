@@ -1,2 +1,5 @@
 jdk:
   - openjdk21
+
+install:
+  - mvn -pl flexgateway-api -am install -DskipTests
