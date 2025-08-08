@@ -1,0 +1,6 @@
+name: luckperms
+main: fr.neocle.extensions.LuckPermsExtension
+version: 1.0.0
+author: Neocle
+description: LuckPerms integration extension for FlexGateway
+depends: [LuckPerms]

@@ -1,0 +1,21 @@
+# LuckPerms Extension Configuration
+settings:
+  # Enable detailed permission logging
+  debug-logging: false
+
+  # Cache settings
+  cache-duration-seconds: 60
+
+  # API rate limiting
+  max-requests-per-minute: 100
+
+# Features
+features:
+  # Enable group management via API
+  allow-group-management: true
+
+  # Enable permission management via API
+  allow-permission-management: true
+
+  # Include permission inheritance in responses
+  include-inheritance: true

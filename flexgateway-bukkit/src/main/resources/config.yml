@@ -1,0 +1,12 @@
+api:
+  host: "localhost"
+  port: 8080
+
+security:
+  enable_auth: false
+  api_key: ""
+
+cors:
+  allow_origin: "*"
+  allow_methods: "GET, POST, PUT, DELETE, OPTIONS"
+  allow_headers: "Content-Type, Authorization"

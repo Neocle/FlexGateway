@@ -1,0 +1,11 @@
+name: FlexGateway
+version: 1.0.0
+main: fr.neocle.flexgateway.FlexGatewayBukkit
+api-version: 1.19
+author: Neocle
+description: REST API plugin to expose server, player, and world data
+
+permissions:
+  flexgateway.admin:
+    description: Administrative access to the API
+    default: op
